@@ -1,0 +1,91 @@
+{
+  "ski-centers": [
+    {
+      "id": 1,
+      "name": "Śnieżka",
+      "georeferencing": {
+            "lat": 50.76705094955349,
+            "lng": 15.729299872338743},
+      "blue_tracks": 4,
+      "red_tracks": 3,
+      "black_tracks": 0
+    },
+
+    {
+      "id": 2,
+      "name": "Zakopane",
+      "georeferencing": {
+        "lat": 49.3,
+        "lng": 19.95},
+      "blue_tracks": 4,
+      "red_tracks": 3,
+      "black_tracks": 0
+    },
+
+    {
+      "id": 3,
+      "name": "Szczyrk",
+      "georeferencing": {
+        "lat": 49.706037541967724,
+        "lng": 19.014456079270644},
+      "blue_tracks": 4,
+      "red_tracks": 3,
+      "black_tracks": 0
+    },
+
+    {
+      "id": 4,
+      "name": "Szklarska Pręba",
+      "georeferencing": {
+        "lat": 50.833333333333,
+        "lng": 15.533333333333},
+      "blue_tracks": 4,
+      "red_tracks": 3,
+      "black_tracks": 0
+    },
+
+    {
+      "id": 5,
+      "name": "Czaran Góra",
+      "georeferencing": {
+        "lat": 50.26014,
+        "lng": 16.81922099999997},
+      "blue_tracks": 4,
+      "red_tracks": 3,
+      "black_tracks": 0
+    },
+
+    {
+      "id": 6,
+      "name": "Białka tatrzańska",
+      "georeferencing": {
+        "lat": 49.394722222222,
+        "lng": 20.105},
+      "blue_tracks": 4,
+      "red_tracks": 3,
+      "black_tracks": 0
+    },
+
+    {
+      "id": 7,
+      "name": "Zieleniec",
+      "georeferencing": {
+        "lat": 50.33537099999999,
+        "lng": 16.389513999999963},
+      "blue_tracks": 4,
+      "red_tracks": 3,
+      "black_tracks": 0
+    },
+
+    {
+      "id": 8,
+      "name": "BeskidSportArena",
+      "georeferencing": {
+        "lat": 49.721016,
+        "lng": 19.003322},
+      "blue_tracks": 4,
+      "red_tracks": 3,
+      "black_tracks": 0
+    }
+  ]
+}
